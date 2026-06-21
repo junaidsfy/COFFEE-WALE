@@ -26,7 +26,7 @@ export default function Hero() {
   };
 
   return (
-    <div id="hero-scroll-track" className="relative h-[150vh]">
+    <div id="hero-scroll-track" className="relative h-[108vh]">
       <section
         id="home"
         className="sticky top-0 h-screen overflow-hidden bg-black"
