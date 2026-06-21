@@ -59,7 +59,7 @@ export default function CoffeeAnimation() {
     };
 
     const renderLoop = () => {
-      currentFrame += (targetFrame - currentFrame) * 0.04;
+      currentFrame += (targetFrame - currentFrame) * 0.10;
 
       drawFrame(currentFrame);
 
