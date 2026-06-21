@@ -1,0 +1,6 @@
+{
+  "name": "COFFEE WALE",
+  "description": "A premium, modern, Apple-style website for COFFEE WALE, a premium cold coffee and cafe brand in Ghaziabad, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
